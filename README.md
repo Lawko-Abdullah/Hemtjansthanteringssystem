@@ -1,4 +1,4 @@
-# Hemtjänsthanteringssystem
+# Home-Care System / Hemtjänst Hanteringssystem
 
 **Vision & Goals**  
 The system goal is to provide a comprehensive digital solution for home care management by automating scheduling, optimizing resource utilization, and improving communication between staff and clients. Additionally, the system shall offer a full-scale solution for finance, invoicing, and various financial tools to optimize the profitability of the business.  
