@@ -24,3 +24,5 @@ The system goal is to provide a comprehensive digital solution for home care man
 - **Should:** Notifications, reports, and statistics.  
 - **Could:** Integration with a relative portal.  
 ---
+
+https://trello.com/b/D5xBhBEx/hemtjansthanteringssystem
